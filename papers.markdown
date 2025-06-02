@@ -17,4 +17,4 @@ The email address on these papers is my school email - please do not attempt to 
 - [Go To Statement](https://github.com/leviseibert/Technical-Papers/blob/master/Go%20To%20Statement%20Paper.pdf) - An analysis of Edsger W. Dijkstra's article "Go To Statement Considered Harmful".
 
 ### Miscellaneous
-- [Principle of Mathematical Induction](https://github.com/leviseibert/Technical-Papers/blob/master/Principle%20of%20Mathematical%20Induction.pptx) - A brief PPT presentation discussing the Principle of Mathematical Induction - **Note**: Github does not display PPT presentations, so you'll need to download the presentation to view it.
+- [Principle of Mathematical Induction](https://github.com/leviseibert/Technical-Papers/blob/master/Principle%20of%20Mathematical%20Induction.pptx) - A brief PPT presentation discussing the Principle of Mathematical Induction; **note**: Github does not display PPT presentations, so you'll need to download the presentation to view it.
