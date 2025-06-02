@@ -20,5 +20,5 @@ The email address on these papers is my school email - please do not attempt to 
 - [Illegal Espionage](https://github.com/leviseibert/Technical-Papers/blob/master/Illegal_Espionage.pdf) - An analysis of government surviellance methods and their legality (specifically in regard to the 4th Amendment)
 
 ### Computer Science
-- [Go To Statement](https://github.com/leviseibert/Technical-Papers/blob/master/Data_Encryption_Standard.pdf) - An analysis of Edsger W. Dijkstra's article "Go To Statement Considered Harmful"
+- [Go To Statement Considered Harmful](https://github.com/leviseibert/Technical-Papers/blob/master/Go_To_Statement_Considered_Harmful.pdf) - An analysis of Edsger W. Dijkstra's article "Go To Statement Considered Harmful"
 - [Karnaugh Maps](https://github.com/leviseibert/Technical-Papers/blob/master/Karnaugh_Maps.pdf) - An elementary overview of Karnaugh Maps and how they are used
