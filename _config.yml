@@ -21,7 +21,7 @@
 title: Seibert Security
 email: levi@seibertsecurity.com
 description: >- # this means to ignore newlines until "baseurl:"
-  SeibertSecurity.com is a personal cybersecurity knowledge hub and learning lab built to map, document, and share my journey in security training, hands-on labs, and technical skill-building. Here, you'll find practical guides, virtual machine setups, security tool walkthroughs, and analysis of the latest threats and defenses.
+  SeibertSecurity.com is a personal cybersecurity knowledge hub and learning blog built to map, document, and share my journey in security training, hands-on labs, and technical skill-building. Here, you'll find practical guides, virtual machine setups, security tool walkthroughs, and analysis of the latest threats and defenses.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://seibertsecurity.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
