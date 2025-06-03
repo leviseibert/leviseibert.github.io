@@ -1,6 +1,6 @@
 ## School Papers
 
-Throughout my undergraduate studies and graduate studies at Athens State University, I had writing assignments for various classes.  Please note that some of these are definitely less "developed" in nature, but they do illustrate my progression to the point where I am today; as well as illustrate some of my focus areas throughout the years.  
+Throughout my undergraduate studies and graduate studies at Athens State University, I had writing assignments for various classes.  Please note that some of these are definitely less "fully developed" in nature, but they do illustrate my progression to the point where I am today, as well as illustrate some of my focus areas throughout the years.  
 
 The email address on these papers is my school email - please do not attempt to reach me at this email address.  Please use [levi@seibertsecurity.com](mailto:levi@seibertsecurity.com) or contact me on [LinkedIn](https://www.linkedin.com/in/leviseibert/) or [X](https://x.com/seibertsecurity).
 
@@ -32,4 +32,4 @@ The email address on these papers is my school email - please do not attempt to 
 - [Not So Smart Devices](https://github.com/leviseibert/Technical-Papers/blob/master/Not_So_Smart_Devices.pdf) - A discussion on the cybersecurity, or lack thereof, in IoT devices
 - [The SolarWinds Orion Breach](https://github.com/leviseibert/Technical-Papers/blob/master/The_SolarWinds_Orion_Breach.pdf) - An analysis of the 2020 SolarWinds cyberattack
 - [Survey on Hacktivism](https://github.com/leviseibert/Technical-Papers/blob/master/Survey_on_Hacktivism.pdf) - A literature review and discussion on the concept of "hacktivism"
-- [Usable Cybersecurity](https://github.com/leviseibert/Technical-Papers/blob/master/Usable_Cybersecurity.pdf) - A review of a conference paper on the subject of blanace cybersecurity and usability
+- [Usable Cybersecurity](https://github.com/leviseibert/Technical-Papers/blob/master/Usable_Cybersecurity.pdf) - A review of a conference paper on the subject of balance cybersecurity and usability
