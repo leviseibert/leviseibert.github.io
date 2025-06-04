@@ -1,5 +1,3 @@
-## School Papers
-
 Throughout my undergraduate studies and graduate studies at Athens State University, I had writing assignments for various classes.  Please note that some of these are definitely less "fully developed" in nature, but they do illustrate my progression to the point where I am today, as well as illustrate some of my focus areas throughout the years.  
 
 The email address on these papers is my school email - please do not attempt to reach me at this email address.  Please use [levi@seibertsecurity.com](mailto:levi@seibertsecurity.com) or contact me on [LinkedIn](https://www.linkedin.com/in/leviseibert/) or [X](https://x.com/seibertsecurity).
