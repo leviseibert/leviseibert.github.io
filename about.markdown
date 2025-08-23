@@ -8,7 +8,7 @@ permalink: /about/
 SeibertSecurity.com is a personal cybersecurity knowledge hub and learning blog built to map, document, and share my journey in security training, hands-on labs, and technical skill-building. Here, you'll find practical guides, virtual machine setups, security tool walkthroughs, and analysis of the latest threats and defenses.
 
 ## Who Am I?  
-My name is Levi Seibert - I am a software engineer in Huntsville, Alabama.  My work is quite dynamic - I do a mix of software development, emulation/virtualization, reverse engineering, vulnerability research, and system analysis.  As such, my technical focus (and in turn, the focus of this site) will be in some of these fields.   
+My name is Levi Seibert - I am a software engineer in Huntsville, Alabama.  My work is quite dynamic - I do a mix of software development, penetration testing, emulation/virtualization, reverse engineering, vulnerability research, and system analysis.  As such, my technical focus (and in turn, the focus of this site) will be in some of these fields.   
 
 ### Education
 One of the greatest blessings of my life was being homeschooled my  my entire K-12 education.  This non-traditional academic style openned the door to me dual-enrolling in my local community college ([Calhoun Community College](https://calhoun.edu/)) while in high school.  Granted, non-homeschooled students certainly can also participate in dual enrollment, but the flexibilty of homeschool allowed me to complete my Associate's Degree in General Studies the same month I completed high school (which was also the month I turned 17).
