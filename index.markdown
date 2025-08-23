@@ -4,6 +4,8 @@
 
 layout: home
 ---
-Hello World...  
+Hello World...
 
-This is the start of my personal site for growing my cybersecurity skills.  Who knows...maybe someday Seibert Security will be a consulting business!
+Thanks for checking out my site!  I'm still working on what exactly this site will be, so stay tuned.
+
+Who knows...maybe someday SeibertSecurity will be a consulting business!
