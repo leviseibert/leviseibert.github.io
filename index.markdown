@@ -8,4 +8,4 @@ Hello World...
 
 Thanks for checking out my site!  I'm still working on what exactly this site will be, so stay tuned.
 
-Who knows...maybe someday SeibertSecurity will be a consulting business!
+Who knows...maybe someday Seibert Security will be a consulting business!
