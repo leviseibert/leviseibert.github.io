@@ -4,8 +4,10 @@
 
 layout: home
 ---
-Hello World...
+## Welcome to Seibert Security
 
-Thanks for checking out my site!  I'm still working on what exactly this site will be, so stay tuned.
+My name is Levi Seibert and this is my personal website.  I plan to use this site to track my cybersecurity knowledge base as I work to increase my skills and abilities.
 
-Who knows...maybe someday Seibert Security will be a consulting business!
+I'm still working on what exactly this site will be, so stay tuned.  Who knows...maybe someday Seibert Security will be a consulting business!
+
+If you have an questions or ideas, please don't hesitate to contact me!
